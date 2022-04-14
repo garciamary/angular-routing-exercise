@@ -1,0 +1,11 @@
+header {
+  margin-bottom: 100px;
+}
+
+span {
+  color: white;
+}
+
+span:active{
+  color: rgb(201, 231, 238);
+}
